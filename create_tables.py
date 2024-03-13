@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 import pymysql
 
-# depedencies: pip install python-dotenv pymysql
+# dependencies: pip install python-dotenv pymysql
 
 # Carregar variáveis de ambiente a partir do arquivo .env
 load_dotenv()
